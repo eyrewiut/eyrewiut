@@ -10,6 +10,8 @@ I have taught myself everything on this list through doing projects in my own ti
 
 ### I'm Learning 🌱
 - :jp: Japanese
+- Golang
+- ReactJS
 
 ### Top Skills :star2:
 - NodeJS
@@ -18,6 +20,6 @@ I have taught myself everything on this list through doing projects in my own ti
 ### Other things I'm good at ⚡
 - MongoDB, ArangoDB
 - C# with Unity3D
-- VueJS, Gridsome
+- VueJS, Gridsome, Nuxt
 
 Pronouns: *He/Him*
