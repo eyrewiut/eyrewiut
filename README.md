@@ -13,8 +13,7 @@ The following list of skills is a summary, for a more comprehensive summary plea
 - Golang
 
 ### Top Skills :star2:
-- Serverside development in NodeJS
-- HTML5, CSS3, Javascript (+ experience with a variety of post/pre-processors)
+- Frontend Development
 - VueJS
 - Static generation ussing tools such as Astro and Nuxt
 - UI/UX Design
@@ -23,6 +22,8 @@ The following list of skills is a summary, for a more comprehensive summary plea
 ### Other things can do :zap:
 - Use both relational and non-relational databases including MongoDB, ArangoDB and PostgreSQL
 - Develop games using C# with Unity3D
-- Android App Development (Kotlin)
+- Android App Development (in Kotlin)
+- Interact with both RESTful and GraphQL APIs
+- Search Engine Optimization (SEO)
 
 Pronouns: *He/Him*
